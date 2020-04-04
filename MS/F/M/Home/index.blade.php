@@ -295,7 +295,7 @@
 					@include("Home.Common.shortprofile")
 					</div>
 				</div>
-			</div>
+
 		</section>
 
 

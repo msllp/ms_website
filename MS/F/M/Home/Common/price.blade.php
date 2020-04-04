@@ -22,7 +22,7 @@
                             <li><span class="lnr lnr-checkmark-circle"></span> <strong> Event</strong> Management</li>
                             <li><span class="lnr lnr-checkmark-circle"></span> <strong> Document</strong> Management</li>
                         </ul>
-                        <a href="" class="btn btn-primary btn-block message">Start from ₹ 5k</a>
+                        <a href="{{url('/contact-us')}}" class="btn btn-primary btn-block message">Start from ₹ 5k</a>
                     </div>
                 </div>
 
@@ -43,7 +43,7 @@
 
 
                         </ul>
-                        <a href="" class="btn btn-primary btn-block message">Start from ₹ 45k</a>
+                        <a href="{{url('/contact-us')}}" class="btn btn-primary btn-block message">Start from ₹ 45k</a>
                     </div>
                 </div>
 
@@ -64,7 +64,7 @@
 
 
                         </ul>
-                        <a href="" class="btn btn-primary btn-block message">Start from ₹ 1 lac</a>
+                        <a href="{{url('/contact-us')}}" class="btn btn-primary btn-block message">Start from ₹ 1 lac</a>
                     </div>
                 </div>
 
@@ -84,7 +84,7 @@
                             <li><span class="lnr lnr-checkmark-circle"></span> Hosted on our <strong>own Cloud</strong></li>
 
                         </ul>
-                        <a href="" class="btn btn-primary btn-block">Ask for Demo</a>
+                        <a href="{{url('/contact-us')}}" class="btn btn-primary btn-block message">Get help of Expert</a>
                     </div>
                 </div>
 
