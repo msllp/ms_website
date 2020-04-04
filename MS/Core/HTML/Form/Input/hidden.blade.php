@@ -1,0 +1,3 @@
+<div class="form-group col-xs-12 col-sm-12 col-md-6 col-lg-6">
+{{ Form::hidden($data['name'], $data['value'],['class'=>'form-control','tabindex'=>$index,] ) }}
+</div>

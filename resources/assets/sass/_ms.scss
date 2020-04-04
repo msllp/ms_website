@@ -1,0 +1,466 @@
+
+.navbar-brand {
+  margin-top: -17px;
+  width: 200px;
+  height: 78px;
+  background: url(../images/master/logo.png) no-repeat 20px 10px;
+  background-size: 180px 60px;
+  }
+
+.ms-basic-text{
+  font-family: 'open_sansbold';
+}
+
+.fa-google-plus-square{
+  color:rgb(219, 68, 55);
+}
+
+.fa-facebook-square{
+  color:#4267b2;
+}
+
+
+.fa-linkedin-square{
+  color:#0077b5;
+}
+
+h1,h2,h3,h4,h5,h6{
+	padding:0px;
+	margin-bottom:0px;
+}
+.ms-hide{
+  display:none;
+  color:white;
+  opacity:0.0;
+}
+
+.ms-seo{
+  padding:0px;
+  margin:0px;
+  line-height:12px;
+  font-size: 11px;
+  font-family: 'open_sansbold';
+  display: inline;
+}
+
+.ms-seo-b{
+  font-weight: normal!important;
+  font-style: normal!important;
+
+}
+
+
+.ms-seo-i{
+  font-style: normal!important;
+}
+
+.ms-seo-p-h1{
+  font-family: 'open_sansbold';
+  line-height: 1.5rem;
+    font-size: 1.1rem;
+     display: inline !important;
+}
+
+
+.ms-seo > a{
+  color :#551a8b;
+}
+
+
+.ms-v-sep{
+  border-right: 1px double #551a8b;
+  display: inline;
+  line-height:12px;
+  font-size: 11px;
+  margin-right:5px;
+
+}
+
+
+.ms-footer-title{
+      color: #ff5f3b;
+    font-size: 14px;
+     font-weight: 900;
+     font-family: 'open_sansbold';
+
+
+}
+.ms-text{
+  font-weight: 900;
+     font-family: 'open_sansbold';
+}
+
+.ms-text-h1{
+    font-size: 1.5rem;
+    line-height: 2.2rem;
+    font-weight: 900;
+     font-family: 'open_sansbold';
+}
+.ms-padding-left-10{
+  padding-left:10px;
+}
+.ms-padding-right-10{
+  padding-right:10px;
+}
+.ms-bg{
+  background-color:#ddd;
+  color:#59126d;
+}
+
+.ms-bg-pic{
+  background-color:#ddd;
+  background: url(../images/homebg1.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.ms-fix-1-1{
+padding-top: 90px;
+padding-bottom:10px;
+}
+
+.breadcrumb{
+margin-bottom:10px;
+}
+
+.product-logo{
+  
+  max-height:20px;
+}
+
+
+
+/*==================================================
+=            Bootstrap 3 Media Queries             =
+==================================================*/
+
+    /*==========  Mobile First Method  ==========*/
+
+    /* Custom, iPhone Retina */ 
+    @media only screen and (min-width : 320px) {
+
+    .dropdown:hover .dropdown-content  { 
+   
+      }
+
+    }
+
+    /* Extra Small Devices, Phones */ 
+    @media only screen and (min-width : 480px) {
+
+    .dropdown:hover .dropdown-content  { 
+
+      }
+
+    }
+
+    /* Small Devices, Tablets */
+    @media only screen and (min-width : 768px) {
+
+    .dropdown:hover .dropdown-content  { 
+     
+      }
+
+    }
+
+    /* Medium Devices, Desktops */
+    @media only screen and (min-width : 992px) {
+
+                        /* Dropdown Button */
+                  .dropbtn {
+                     // background-color: #4CAF50;
+                      color: white;
+                      padding: 16px;
+                      font-size: 16px;
+                      border: none;
+                      cursor: pointer;
+                  }
+
+                  /* The container <div> - needed to position the dropdown content */
+                  .dropdown {
+                      position: relative;
+                      display: inline-block;
+                  }
+
+                  /* Dropdown Content (Hidden by Default) */
+                  .dropdown-content {
+                      display: none;
+                      position: absolute;
+                      background-color: #f9f9f9;
+                      min-width: 160px;
+                      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                      z-index: 1;
+                  }
+
+                  /* Links inside the dropdown */
+                  .dropdown-content a {
+                      color: black;
+                      padding: 12px 16px;
+                      text-decoration: none;
+                      display: block;
+                  }
+
+                  /* Show the dropdown menu on hover */
+                  .dropdown:hover .dropdown-content {
+                      display: block;
+                  }
+
+    }
+
+    /* Large Devices, Wide Screens */
+    @media only screen and (min-width : 1200px) {
+
+                        /* Dropdown Button */
+                  .dropbtn {
+                     // background-color: #4CAF50;
+                      color: white;
+                      padding: 16px;
+                      font-size: 16px;
+                      border: none;
+                      cursor: pointer;
+                  }
+
+                  /* The container <div> - needed to position the dropdown content */
+                  .dropdown {
+                      position: relative;
+                      display: inline-block;
+                  }
+
+                  /* Dropdown Content (Hidden by Default) */
+                  .dropdown-content {
+                      display: none;
+                      position: absolute;
+                      background-color: #f9f9f9;
+                      min-width: 160px;
+                      box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+                      z-index: 1;
+                  }
+
+                  /* Links inside the dropdown */
+                  .dropdown-content a {
+                      color: black;
+                      padding: 12px 16px;
+                      text-decoration: none;
+                      display: block;
+                  }
+
+                  /* Show the dropdown menu on hover */
+                  .dropdown:hover .dropdown-content {
+                      display: block;
+                  }
+
+    }
+
+
+
+
+
+
+.home_overlay{
+  position: relative;
+  z-index: 99998;
+}
+
+.main_menu_bg{
+  
+}
+
+#main_menu  {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 2s;
+  animation-iteration-count: 1;
+    position: relative;
+  z-index: 99999;
+
+}
+
+
+#newsstory{
+    -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 5s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 5s;
+  animation-iteration-count: 1;
+}
+
+
+  
+
+
+  #h1_1 {
+  -webkit-animation-duration: 8s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 8s;
+  animation-delay: 2s;
+  animation-iteration-count: 1;
+    z-index: -1;
+}
+  #h1_2 {
+  -webkit-animation-duration: 5s;
+  -webkit-animation-delay: 3s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 5s;
+  animation-delay: 3s;
+  animation-iteration-count: 1;
+  z-index: -1;
+}
+
+
+  #logo {
+  -webkit-animation-duration: 12s;
+  -webkit-animation-delay: 2s;
+  -webkit-animation-iteration-count: infinite;
+
+  animation-duration: 12s;
+  animation-delay: 2s;
+  animation-iteration-count: infinite;
+}
+
+
+#btn_1
+{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 13s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 13s;
+  animation-iteration-count: 1;
+}
+
+#btn_2
+{
+  -webkit-animation-duration: 7s;
+  -webkit-animation-delay: 17s;
+  -webkit-animation-iteration-count: infinite;
+
+  animation-duration: 7s;
+  animation-delay: 17s;
+  animation-iteration-count: infinite;
+}
+
+
+#ph_1 {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 5s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 5s;
+  animation-iteration-count: 1;
+}
+
+#p_1 {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 6s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 6s;
+  animation-iteration-count: 1;
+}
+
+
+#p_2 {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 7s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 7s;
+  animation-iteration-count: 1;
+}
+
+#p_3 {
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 8s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 8s;
+  animation-iteration-count: 1;
+}
+
+#contact_us_1{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 9s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 9s;
+  animation-iteration-count: 1;
+}
+
+#contact_us_2{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 10s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 10s;
+  animation-iteration-count: 1;
+}
+
+#contact_us_3{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 11s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 11s;
+  animation-iteration-count: 1;
+}
+
+#contact_us_4{
+  -webkit-animation-duration: 2s;
+  -webkit-animation-delay: 12s;
+  -webkit-animation-iteration-count: 1;
+
+  animation-duration: 2s;
+  animation-delay: 12s;
+  animation-iteration-count: 1;
+}
+
+
+
+.main_menu_bg .navbar-nav>li>a {
+
+  font-family: 'Ubuntu', sans-serif!important;
+}
+
+
+.lnr{
+  font-weight: bold!important;
+}
+
+.message{
+  font-family: 'Ubuntu', sans-serif!important;
+}
+.ms-border-box{
+  display: inline-block;
+  border: 1px solid #ddd;
+  //padding: 20px 5px;
+}
+
+.callus_client_logo a {
+  margin: 15px 5px;
+}
+
+.ms-left-img{
+
+  max-width: 150px;
+  float: left;
+  padding-right: 24px;
+  padding-top: 10px;
+}
