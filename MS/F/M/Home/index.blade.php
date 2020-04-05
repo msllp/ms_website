@@ -89,7 +89,7 @@
 								<div class="pricing_head_text">
 									<h3><i class="fa fa-industry" aria-hidden="true"></i> Cloud ERP & CRM</h3>
 									<div class="separator"></div>
-									<small>We provide Cloud-based ERP & CRM Software in India that gives your business more room to expand and reach the heights of success. </small>
+									<span class="ms-small-text">We provide Cloud-based ERP & CRM Software in India that gives your business more room to expand and reach the heights of success. </span>
 
 								</div>
 
@@ -101,7 +101,7 @@
 								<div class="pricing_head_text">
 									<h3><i class="fa fa-globe" aria-hidden="true"></i> Website Solution</h3>
 									<div class="separator"></div>
-									<small>We provide a complete Website Solution that covers all your requirements like Selection of Domain Name, Hosting, Designing, Maintaining.</small>
+									<span class="ms-small-text">We provide a complete Website Solution that covers all your requirements like Selection of Domain Name, Hosting, Designing,Maintaining.</span>
 
 
 								</div>
@@ -114,7 +114,7 @@
 								<div class="pricing_head_text">
 									<h3><i class="fa fa-briefcase" aria-hidden="true"></i> IT/ERP Consultancy</h3>
 									<div class="separator"></div>
-									<small>We provide Most Economic software solutions related to your business that you can operate our software according to your requirements. </small>
+									<span class="ms-small-text">We provide Most Economic software solutions related to your business that you can operate our software according to your requirements. </span>
 
 
 								</div>
@@ -127,7 +127,7 @@
 								<div class="pricing_head_text">
 									<h3><i class="fa fa-search-plus" aria-hidden="true"></i> SEO / SMO Services</h3>
 									<div class="separator"></div>
-									<small>We provide SEO and SME Services that can provide the online existence of your business on Search Engines like Google, Yahoo, AOL, MSN, etc.</small>
+									<span class="ms-small-text">We provide SEO and SME Services that can provide the online existence of your business on Search Engines like Google,Yahoo,etc.</span>
 
 
 								</div>
@@ -167,7 +167,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>Manufacturing <br><small>ERP</small></h3>
 									<div class="separator"></div>
-									<small>Customized Cloud Hosted ERP Solution from MSLLP is appropriate for any size <a>manufacturing company ..</a></small>
+									<span class="ms-small-text">Customized Cloud Hosted ERP Solution from MSLLP is appropriate for any size <a class="ms-seo-a">manufacturing company ..</a></span>
 
 								</div>
 
@@ -179,7 +179,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>Construction <br><small>ERP</small></h3>
 									<div class="separator"></div>
-									<small>Online & Offline ERP for Construction by MSLLP is reliable <a>business management software that cares ..</a></small>
+									<span class="ms-small-text">Online & Offline ERP for Construction by MSLLP is reliable <a class="ms-seo-a">business management software that cares ..</a></span>
 
 
 								</div>
@@ -192,7 +192,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>HMS<br><small>Hospital Management System</small></h3>
 									<div class="separator"></div>
-									<small>Hospital Management System or Hospital Management <a>Information System</a> <a>is basically meant .. </a></small>
+									<span class="ms-small-text">Hospital Management System or Hospital Management <a class="ms-seo-a">Information System</a> <a class="ms-seo-a">is basically meant .. </a></span>
 
 
 								</div>
@@ -205,7 +205,7 @@
 								<div class="pricing_head_text  text-left">
 									<h3>SCM<br><small>Supply Chain Management</small></h3>
 									<div class="separator"></div>
-									<small>Fully integrated supply chain management software to manage <a>supply chain planning</a>, <a>inventory</a> ..</small>
+									<span class="ms-small-text">Fully integrated supply chain management software to manage <a class="ms-seo-a">supply chain planning</a>, <a class="ms-seo-a">inventory</a> ..</span>
 
 
 								</div>
@@ -218,7 +218,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>ERP <br><small>for Calibration & Testing Lab</small></h3>
 									<div class="separator"></div>
-									<small>Best calibration management software to manage <a>calibration & testing labs activities smartly ..</a></small>
+									<span class="ms-small-text">Best calibration management software to manage <a class="ms-seo-a">calibration & testing labs activities smartly ..</a></span>
 
 								</div>
 
@@ -230,7 +230,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>ERP <br><small>for Buying House & Agencies</small></h3>
 									<div class="separator"></div>
-									<small>Cloud ERP Solution for buying house and agency that provides <a>tracking activity in real time ..</a> </small>
+									<span class="ms-small-text">Cloud ERP Solution for buying house and agency that provides <a class="ms-seo-a">tracking activity in real time updates ..</a> </span>
 
 
 								</div>
@@ -243,7 +243,7 @@
 								<div class="pricing_head_text text-left">
 									<h3>CRM<br><small>Sales Force Management</small></h3>
 									<div class="separator"></div>
-									<small>Online CRM software in an integrated system that <a>manages sales</a> and <a>marketing relation, QC services ..</a></small>
+									<span class="ms-small-text">Online CRM software in an integrated system that <a  class="ms-seo-a">manages sales</a> and <a class="ms-seo-a">marketing relation, QC services ..</a></span>
 
 
 								</div>
@@ -256,7 +256,7 @@
 								<div class="pricing_head_text  text-left">
 									<h3>ERP<br><small>For Effluent Treatment Plant </small></h3>
 									<div class="separator"></div>
-									<small>MSLLP offers a Most Customized ERP solution covering <a>effluent treatment plants</a>,<a>solid waste plants ..</a></small>
+									<span class="ms-small-text">MSLLP offers a Most Customized ERP solution covering <a class="ms-seo-a">effluent treatment plants</a>,<a class="ms-seo-a">solid waste plants ..</a></span>
 
 
 								</div>
@@ -283,7 +283,7 @@
 			</div>
 		</section>
 
-		@include("Home.Common.price")
+
 
 
 
@@ -291,8 +291,9 @@
 			<div class="container">
 				<div class="row">
                     @include("Home.Common.contact2")
-					@include("Home.Common.clients")
 					@include("Home.Common.shortprofile")
+					@include("Home.Common.clients")
+
 					</div>
 				</div>
 

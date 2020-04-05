@@ -27,7 +27,12 @@
 
                                             <li class="dropdown"><a href="#" class="dropdown-toggle dropbtn " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><span class="lnr lnr-rocket"></span>  Products<span class="caret"></span></a>
                                               <ul class="dropdown-menu dropdown-content">
-                                                <li><a href="{{url('product/ms-flex')}}">
+                                                <li><a href="{{url('product/o3-erp')}}">
+                                                    <span><img class="product-logo"  src="{{ url('images/master/o3-erp.svg') }}"></span>
+                                                    <br><small>Ozone for Business</small>
+
+                                                </a></li>
+                                                  <li><a href="{{url('product/ms-flex')}}">
                                                     <span><img class="product-logo" src="{{ url('images/master/Ms_Flex.png') }}"></span>
                                                     <br><small>Custom Website Solution</small>
 

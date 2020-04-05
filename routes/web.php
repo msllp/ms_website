@@ -27,9 +27,7 @@ Route::get('/product/ms-flex', function () {return view('Product.msflex');});
 Route::get('/product/ms-erp', function () {return view('Product.mserp');});
 Route::get('/product/ms-crm', function () {return view('Product.mscrm');});
 Route::get('/product/ms-cca', function () {return view('Product.mscca');});
-
 Route::get('/contact-us', function () {return view('Home.contactus');});
-
 Route::get('/service/it-consultancy', function () {return view('Service.it');});
 Route::get('/service/web-development-designing', function () {return view('Service.web');});
 Route::get('/service/custom-erp-development', function () {return view('Service.erp');});
