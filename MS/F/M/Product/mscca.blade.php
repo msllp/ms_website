@@ -20,7 +20,7 @@ Custom Cloud application,Cloud application india,Custom Cloud,Cloud for school,C
 @endsection
 
 @section('PageHeading')
-<img alt="Custom Cloud application in India ,Only Customized Cloud software Vendor in India "src="{{asset('images/master/Ms_CCA.png')}}"><br><small>Most Customized Cloud Application Solution</small>
+<img class="ms-product-logo" alt="Custom Cloud application in India ,Only Customized Cloud software Vendor in India "src="{{asset('images/master/Ms_CCA.png')}}"><br><small>Most Customized Cloud Application Solution</small>
 @endsection
 
 @section('PageContent')

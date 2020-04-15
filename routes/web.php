@@ -23,10 +23,13 @@ Route::get('/web-based-erp', '\F\SeoPages\Controller@erpIndia');
 Route::get('/offline-erp', '\F\SeoPages\Controller@erpIndia');
 //Route::get('/scada-erp', '\F\SeoPages\Controller@erpIndia');
 Route::get('/about-us', function () {return view('Home.company');});
+
 Route::get('/product/ms-flex', function () {return view('Product.msflex');});
 Route::get('/product/ms-erp', function () {return view('Product.mserp');});
 Route::get('/product/ms-crm', function () {return view('Product.mscrm');});
 Route::get('/product/ms-cca', function () {return view('Product.mscca');});
+Route::get('/product/o3-erp', function () {return view('Product.o3erp');});
+
 Route::get('/contact-us', function () {return view('Home.contactus');});
 Route::get('/service/it-consultancy', function () {return view('Service.it');});
 Route::get('/service/web-development-designing', function () {return view('Service.web');});

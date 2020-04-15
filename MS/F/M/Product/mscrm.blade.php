@@ -20,7 +20,7 @@ Custom CRM,CRM india,Cloud CRM,Web based CRM,CRM for retail,CRM for company, CRM
 @endsection
 
 @section('PageHeading')
-<img alt="CRM and Cloud CRM in India ,Only Customized CRM Vendor in India "src="{{asset('images/master/Ms_CRM.png')}}"><br><small>Most Customized CRM Solution</small>
+<img class="ms-product-logo" alt="CRM and Cloud CRM in India ,Only Customized CRM Vendor in India "src="{{asset('images/master/Ms_CRM.png')}}"><br><small>Most Customized CRM Solution</small>
 @endsection
 
 @section('PageContent')

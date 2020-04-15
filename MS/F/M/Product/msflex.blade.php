@@ -19,7 +19,7 @@ professional website solution india,professional website,website for company,web
 @endsection
 
 @section('PageHeading')
-<img alt="Top Dynamic Solution provider in India " src="{{asset('images/master/Ms_Flex.png')}}"><br> <small>A Complate Website Solution</small>
+<img class="ms-product-logo" alt="Top Dynamic Solution provider in India " src="{{asset('images/master/Ms_Flex.png')}}"><br> <small>A Complate Website Solution</small>
 @endsection
 
 @section('PageContent')

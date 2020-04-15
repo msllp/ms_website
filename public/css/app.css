@@ -7675,6 +7675,14 @@ h1, h2, h3, h4, h5, h6 {
   opacity: 0.0;
 }
 
+.ms-product-logo {
+  max-width: 120px;
+}
+
+.ms-product-features-icon {
+  max-height: 60px;
+}
+
 .ms-clients-h {
   color: #5b136d;
 }
@@ -7788,9 +7796,14 @@ body {
   color: #59126d;
 }
 
+.panel-footer {
+  border-bottom-right-radius: 0px;
+  border-bottom-left-radius: 0px;
+}
+
 .ms-bg-pic {
   background-color: #ddd;
-  background: url("/images/homebg1.gif") no-repeat center center fixed;
+  background-image: linear-gradient(rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5), rgba(255, 255, 255, 0.5));
   background-size: cover;
 }
 

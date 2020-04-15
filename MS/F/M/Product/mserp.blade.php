@@ -20,7 +20,7 @@ Custom ERP,ERP india,Custom ERP,Cloud ERP,Web based ERP,ERP for school,ERP for e
 @endsection
 
 @section('PageHeading')
-<img alt="ERP and Cloud ERP in India ,Only Customized ERP Vendor in India "src="{{asset('images/master/Ms_ERP.png')}}"><br><small>Most Customized ERP Solution</small>
+<img class="ms-product-logo" alt="ERP and Cloud ERP in India ,Only Customized ERP Vendor in India "src="{{asset('images/master/Ms_ERP.png')}}"><br><small>Most Customized ERP Solution</small>
 @endsection
 
 @section('PageContent')

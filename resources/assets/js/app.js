@@ -79,7 +79,7 @@ event.preventDefault();
  });
 
 
- $('.action-btn-post').click(function(){
+ $('.action-btn-post').click(function(event){
 
   event.preventDefault(); 
    $( ".ms-form" ).submit();
